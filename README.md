@@ -6,6 +6,7 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+get the Function definition
 ### Step 2: 
 ### Step 3: 
 Get the value from the user for the number of rotation
