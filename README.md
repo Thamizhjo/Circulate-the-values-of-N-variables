@@ -8,13 +8,15 @@ Anaconda - Python 3.7
 ### Step 1: 
 get the Function definition
 ### Step 2: 
-### Step 3: 
 Get the value from the user for the number of rotation
-### Step 4: 
+### Step 3: 
 Using the slicing concept rotate the list
-
-### Step 5: 
+### Step 4:
+Elements from the start up to index n-1 are moved to the end of the new list
+### Step 5:
+print("After circulating the values are:", result)
 ### Step 6: 
+End program
 ## Program:
 ```
 def circulate():
